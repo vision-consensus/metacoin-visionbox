@@ -58,7 +58,7 @@ In order to run the dApp you don't have to change anything in the `visionbox.js`
 
 2. Run Vision Quickstart:
 ```
-docker run -it --rm -p 9090:9090 --name vision visiontools/quickstart
+
 ```
 
 ### VisionBox commands
