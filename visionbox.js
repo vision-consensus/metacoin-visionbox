@@ -40,7 +40,6 @@ Then, run the migration with:
     optimizer: {
       enabled: false, // default: false, true: enable solc optimize
       runs: 200
-    },
-    evmVersion: 'istanbul'
+    }
   }
 }
