@@ -42,7 +42,7 @@ module.exports = {
       privateKey: process.env.PRIVATE_KEY_VPIONEER,
       consume_user_resource_percent: 50,
       fee_limit: 100000000,
-      fullHost: "vpioneer.infragrid.v.network",
+      fullHost: "https://vpioneer.infragrid.v.network",
       network_id: "2"
     }
   }
